@@ -1,7 +1,7 @@
 # Unsloth Challenge A - NF4 to Triton Conversion
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/unsloth-challenge-A/blob/main/notebooks/Unsloth_Challenge_A.ipynb)
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/yourusername/unsloth-challenge-a)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luckiri/unsloth-challenge-A/blob/main/notebooks/Unsloth_Challenge_A.ipynb)
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/luckiri/unsloth-challenge-a)
 
 ## Implementation
 - Single Triton kernel with PTX assembly (`extract.u32` + direct codebook access)
@@ -16,5 +16,5 @@
 
 ## Setup
 ```bash
-git clone https://github.com/yourusername/unsloth-challenge-A
+git clone https://github.com/luckiri/unsloth-challenge-A
 pip install triton torch transformers
